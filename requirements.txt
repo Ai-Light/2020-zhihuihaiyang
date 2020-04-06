@@ -1,0 +1,6 @@
+pandas == 0.24.2
+lightgbm == 2.2.3
+tqdm
+gensim 
+matplotlib
+seaborn
