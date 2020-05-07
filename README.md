@@ -5,15 +5,20 @@
 
 整体采用lightgbm模型5折，最终取得算法赛道复赛B榜 top5
 
-run: sh run.sh
+## 运行代码
 
-Dockerfile可忽略，是线上提交的需要
+```shell
+> sh run.sh
+```
+
 
 ## 文件说明
+- run.sh 执行代码
+- Dockerfile可忽略，是线上提交的需要
 
-nmf_list.py是用做tfidf的特征处理
+- nmf_list.py是用做tfidf的特征处理
 
-feature_selector是用做特征的预处理
+- feature_selector是用做特征的预处理
 
 ## 模型大致思路
 
