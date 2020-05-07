@@ -18,7 +18,7 @@
 
 - nmf_list.py是用做tfidf的特征处理
 
-- feature_selector是用做特征的预处理
+- feature_selector是用做特征选择
 
 ## 模型大致思路
 
