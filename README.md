@@ -33,4 +33,4 @@
 
 - 最后用**Lightgbm**进行模型训练
 
-
+队伍成员天池id：大白_、jycoco、=CODE.KITTY=、挽着我衣袖的姑娘n_
